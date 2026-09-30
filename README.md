@@ -20,3 +20,5 @@ nc -lvnp 4444
 # Terminal 2 - run the PoC
 python3 flyenv_lpe_poc.py
 ```
+
+<img width="1280" height="798" alt="POC" src="https://github.com/user-attachments/assets/c7ed7b03-4049-4065-b507-2f7c3a32ce99" />
