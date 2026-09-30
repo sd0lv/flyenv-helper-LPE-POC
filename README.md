@@ -21,4 +21,4 @@ nc -lvnp 4444
 python3 flyenv_lpe_poc.py
 ```
 
-<img width="1280" height="798" alt="POC" src="https://github.com/user-attachments/assets/c7ed7b03-4049-4065-b507-2f7c3a32ce99" />
+<img width="1181" height="707" alt="POC2" src="https://github.com/user-attachments/assets/eb31cd03-0c52-4ca4-8c10-ee111af6b1bf" />
