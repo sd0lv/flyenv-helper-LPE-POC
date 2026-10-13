@@ -1,11 +1,10 @@
 # FlyEnv - Local Privilege Escalation PoC Linux
 
-Proof of concept for a **local privilege escalation** in FlyEnv's privileged
-helper daemon.
+Proof of concept for a **local privilege escalation** in FlyEnv.
 
 ## Impact
 
-Any local, unprivileged user can execute arbitrary commands as **root**.
+Any local, unprivileged user can execute arbitrary commands as **root**. Affected versions FlyEnv ≤ 4.19.1.
 
 ### Usage
 
