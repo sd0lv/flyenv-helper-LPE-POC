@@ -1,4 +1,4 @@
-# FlyEnv Helper - Local Privilege Escalation PoC Linux
+# FlyEnv - Local Privilege Escalation PoC Linux
 
 Proof of concept for a **local privilege escalation** in FlyEnv's privileged
 helper daemon.
